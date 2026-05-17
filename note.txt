@@ -8,3 +8,6 @@ hset:
 hget:
 hdel: 
 hexists:
+
+
+==== 06: 
