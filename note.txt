@@ -1,0 +1,10 @@
+
+==== 05: 
+Set -> Store single variable
+hset -> store object
+hgetall -> like getting entire object
+
+hset:
+hget:
+hdel: 
+hexists:
